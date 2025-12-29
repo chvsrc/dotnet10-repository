@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MvcWebApp/MvcWebApp.csproj" Id="9e1966b3-7266-47a4-8f6d-b0a7bcc16f4d" />
   <Project Path="RazorPagesWebApp/RazorPagesWebApp.csproj" />
 </Solution>
